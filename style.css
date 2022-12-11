@@ -187,7 +187,7 @@ font-family: 'Roboto Mono', monospace;
 }
 #visit {
     max-width: 1700px;
-    margin: 0 auto;
+    margin: 20px auto;
     height: 300px;
     background-image: url(https://sun1-27.userapi.com/impf/c824603/v824603843/167138/_Uo4ShG_aQQ.jpg?size=1024x784&quality=96&sign=63eff8076922f2f2d51bf92e5472f2bc&type=album);
     background-size: 70%;
@@ -195,7 +195,15 @@ font-family: 'Roboto Mono', monospace;
     background-repeat: no-repeat;
 }
 #visit_description {
+    color: #fff;
+  padding-top: 80px;
+    font-size: 20px;
     max-width: 1700px;
-    margin: 0 auto;
+    margin-left: 400px;
     content: center;
 }
+
+input {
+  margin-left: 280px;
+}
+
